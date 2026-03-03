@@ -70,23 +70,23 @@ const PROJECTS_DATA = [
   },
   {
     id: 4,
-    title: "Brand Identity System",
+    title: "A calculator",
     category: "card",
     filterClass: "filter-card",
-    thumbnail: "assets/img/portfolio/portfolio-4.jpg",
+    thumbnail: "assets/img/portfolio/calculator.png",
     images: [
-      "assets/img/portfolio/portfolio-4.jpg",
-      "assets/img/portfolio/portfolio-details-1.jpg",
+      "assets/img/portfolio/calculator.png",
+      "assets/img/portfolio/calculator2.png",
       "assets/img/portfolio/portfolio-details-2.jpg"
     ],
     description:
-      "Complete brand identity design system including logo variations, typography guidelines, color palette documentation, and business card designs. Created a cohesive visual language that communicates professionalism and creativity across all touchpoints.",
+      "A simple and modern Calculator App using a Glassmorphism style..",
     client: "Creative Agency",
-    date: "November 2023",
-    categoryLabel: "Branding & Identity",
-    projectUrl: "#",
+    date: "october 2025",
+    categoryLabel: "JAVASCRIPT MINI PROJECT",
+    projectUrl: "https://glasscalculator.surge.sh/",
     githubUrl: "",
-    technologies: ["Illustrator", "Photoshop", "Brand Strategy", "Print Design"]
+    technologies: ["HMTL", "CSS", "JAVASCRIPT", "Design"]
   },
   {
     id: 5,
@@ -110,23 +110,23 @@ const PROJECTS_DATA = [
   },
   {
     id: 6,
-    title: "Fitness Tracking App",
+    title: "Guessing Game App",
     category: "app",
     filterClass: "filter-app",
-    thumbnail: "assets/img/portfolio/portfolio-6.jpg",
+    thumbnail: "assets/img/portfolio/Guessing Game.png",
     images: [
-      "assets/img/portfolio/portfolio-6.jpg",
+      "assets/img/portfolio/Guessing Game.png",
       "assets/img/portfolio/portfolio-details-1.jpg",
       "assets/img/portfolio/portfolio-details-3.jpg"
     ],
     description:
-      "A fitness tracking application with real-time workout monitoring, personalized exercise plans, achievement badges, and social sharing features. Designed with accessibility in mind, ensuring usability across different ability levels.",
-    client: "Fitness Startup",
-    date: "March 2024",
+      "MindMatch is a modern, engaging mobile guessing game designed to challenge users’ thinking skills while delivering a fun and immersive experience",
+    client: "Creative Agency",
+    date: "DECEMBER 2025",
     categoryLabel: "App Design",
-    projectUrl: "#",
+    projectUrl: "https://numberduel.surge.sh",
     githubUrl: "",
-    technologies: ["Figma", "Prototyping", "Motion Design", "User Testing"]
+    technologies: ["HTMLS", "CSS", "Motion Design", "FIGMA"]
   },
   {
     id: 7,
